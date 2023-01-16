@@ -1,4 +1,4 @@
-package com.ulcd.user.service.payload;
+package com.ulcd.user.service.UserService.payload;
 
 import org.springframework.http.HttpStatus;
 
